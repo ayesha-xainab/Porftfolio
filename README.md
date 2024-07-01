@@ -32,7 +32,7 @@ This website serves as a digital portfolio to present my skills, projects, and p
 
 ## Usage
 
-Feel free to explore the website to learn more about my skills and projects. You can navigate through different sections using the menu at the top. Also you can send a message directly to my Email via the form in my website.
+Explore the website to learn more about my skills and projects. You can navigate through different sections using the menu at the top. Also you can send a message directly to my Email via the form in my website.
 
 ### Dark Mode
 
