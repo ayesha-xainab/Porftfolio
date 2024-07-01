@@ -1,5 +1,5 @@
 # Porftfolio
-This is my first ever public website that is my personal portfolio.
+This is my first public website that is a personal portfolio.
 This project showcases my journey and skills as a second-semester Software Engineering student.
 
 ## Table of Contents
