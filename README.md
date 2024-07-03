@@ -1,4 +1,4 @@
-# Porftfolio
+# Portfolio
 This is my first public website that is a personal portfolio.
 This project showcases my journey and skills as a second-semester Software Engineering student.
 
@@ -21,6 +21,7 @@ This website serves as a digital portfolio to present my skills, projects, and p
 - **Skills Showcase**: Visual representation of my skills in various technologies.
 - **Projects Section**: Highlights some of my key projects with links.
 - **Contact Form**: Allows visitors to get in touch with me easily.
+- **Theme**: The theme of this website is "space", elements and colors are added accordingly.
 
 ## Technologies Used
 
